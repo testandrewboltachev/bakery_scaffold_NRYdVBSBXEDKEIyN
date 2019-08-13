@@ -15,4 +15,4 @@ after_success:
  - coveralls
 notifications:
   webhooks:
-    - https://crowdbotic-test.herokuapp.com/api/v1/challenge/check_builds/
+    - https://178.141.181.226:8000/api/v1/challenge/check_builds/
